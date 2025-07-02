@@ -19,5 +19,6 @@
 
 ###  📫 Como me encontrar:
 
-[![Linkedin Badge](https://img.shields.io/badge/-KamillaRegosino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamillaregosino/)](https://www.linkedin.com/in/kamillaregosino/)
-[![Gmail Badge](https://img.shields.io/badge/-kamillajordana74@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:kamillajordana74@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-KamillaRegosino-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kamillaregosino/)
+[![Gmail Badge](https://img.shields.io/badge/-kamilla@email.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:kamilla@email.com)
+
