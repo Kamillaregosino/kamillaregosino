@@ -4,7 +4,7 @@
 
 
 ### ⚡ Sobre mim
-- Sou estudante de Ciência da Computação com grande interesse em Machine Learning, Ciência de Dados, Inteligência Artificial e Visão Computacional.
+- Sou estudante de Ciência da Computação com grande interesse em Machine Learning, Ciência de Dados, Inteligência Artificial e Recuperação da Informação.
 
 ### ⚡ Ferramentas e Tecnologias
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
@@ -19,6 +19,5 @@
 
 ###  📫 Como me encontrar:
 
-[![Linkedin Badge](https://img.shields.io/badge/-KamillaRegosino-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kamilla-regosino-a71098338/)
-[![Gmail Badge](https://img.shields.io/badge/-kamillajordana74@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:kamillajordana74@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kamilla-regosino-a71098338/)
 
